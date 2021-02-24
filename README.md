@@ -5,4 +5,4 @@
 ```
 yum install -y curl 2> / dev / null || apt install -y curl && bash <（curl -sSL https://raw.githubusercontent.com/wxfyes/nf/main/nfcs.sh）
 ```
-[奈飞（Netflix）账号安全合租-稳定5人车]（bit.ly/3oPNAu3）
+[奈飞Netflix账号安全合租-稳定5人车]（https://bit.ly/3oPNAu3）
