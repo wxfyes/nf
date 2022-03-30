@@ -2938,7 +2938,7 @@ function Goodbye() {
 		echo -e ""
 		echo -e "${Font_Red}[广告时间]${Font_Suffix}"
 		echo -e "================================================"
-		echo -e "${Font_Yellow}优质专线机场→天阙:${Font_Suffix}"
+		echo -e "${Font_Yellow}优质专线机场→天阙:https://tianquege.top${Font_Suffix}"
 		echo ""
 		echo -e "${Font_SkyBlue}✅ 专线优质机场 
 ✅ 包含香港、台湾、日本、新加坡、美国、英国、韩国、印度、荷兰等多国家节点
