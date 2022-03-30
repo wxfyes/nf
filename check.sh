@@ -2938,19 +2938,19 @@ function Goodbye() {
 		echo -e ""
 		echo -e "${Font_Red}[广告时间]${Font_Suffix}"
 		echo -e "================================================"
-		echo -e "${Font_Yellow}半月灣美國洛杉磯 聯通1Gbps的Premium 9929:${Font_Suffix}"
+		echo -e "${Font_Yellow}优质专线机场→天阙:${Font_Suffix}"
 		echo ""
-		echo -e "${Font_SkyBlue}✅ 聯通版的瓦工 GIA
-✅ 美國原生 IP
-✅ 支持rDNS
-✅ 72小時退款保證 ${Font_Suffix}"
+		echo -e "${Font_SkyBlue}✅ 专线优质机场 
+✅ 包含香港、台湾、日本、新加坡、美国、英国、韩国、印度、荷兰等多国家节点
+✅ 沪港隧道、长港隧道、沪日隧道、佛移、广移、上联、长联等优质中转以及隧道专线
+✅ 支持解锁奈飞、迪士尼等主流流媒体 ${Font_Suffix}"
 		echo ""
-		echo -e "${Font_Green}Looking Glass: http://lg.dc5-9929.hmbcloud.net/${Font_Suffix}"
+		echo -e "${Font_Green}Looking Glass: https://tianquege.top/${Font_Suffix}"
 		echo ""
 		echo ""
-		echo -e "${Font_Purple}\$69.99/年起${Font_Suffix}"
+		echo -e "${Font_Purple}\￥10/月起${Font_Suffix}"
 		echo ""
-		echo -e "${Font_Red}下單鏈接:${Font_Suffix} https://hmbcloud.com/aff.php?aff=473&gid=32"
+		echo -e "${Font_Red}下單鏈接:${Font_Suffix} https://tianquege.top"
 		echo -e "${Font_SkyBlue}    __  ____  _______  ________   ____  __  ______ ${Font_Suffix}"
 		echo -e "${Font_SkyBlue}   / / / /  |/  / __ )/ ____/ /  / __ \/ / / / __ \ ${Font_Suffix}"
 		echo -e "${Font_SkyBlue}  / /_/ / /|_/ / __  / /   / /  / / / / / / / / / /${Font_Suffix}"
