@@ -2948,7 +2948,7 @@ function Goodbye() {
 		echo -e "${Font_Green}Looking Glass: https://tianquege.top/${Font_Suffix}"
 		echo ""
 		echo ""
-		echo -e "${Font_Purple}\￥10/月起${Font_Suffix}"
+		echo -e "${Font_Purple}\10元/月起${Font_Suffix}"
 		echo ""
 		echo -e "${Font_Red}下單鏈接:${Font_Suffix} https://tianquege.top"
 		echo -e "${Font_SkyBlue}    __  ____  _______  ________   ____  __  ______ ${Font_Suffix}"
